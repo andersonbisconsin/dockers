@@ -1,4 +1,4 @@
-# DOCKERS
+# dockers
 
 # Tutorial de uso do Docker
 `docker run -d -p 8081:80 docker/getting-started`
